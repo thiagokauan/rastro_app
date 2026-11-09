@@ -1,0 +1,7 @@
+<resources>
+    <!-- Tema mínimo da Activity; as cores da interface vêm do tema Compose (ui/theme/Theme.kt) -->
+    <style name="Theme.Rastro" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/musgo</item>
+        <item name="android:windowBackground">@android:color/white</item>
+    </style>
+</resources>
